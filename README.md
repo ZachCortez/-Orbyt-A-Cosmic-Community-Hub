@@ -68,7 +68,7 @@
 
 ```bash
 # Clone repo
-git clone https://github.com/ZachCortez/orbyt.git
+git clone https://github.com/#########/orbyt#######.git
 cd orbyt
 
 # Install dependencies
